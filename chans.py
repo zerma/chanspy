@@ -17,7 +17,7 @@ mini_fail_1 = pyglet.sprite.Sprite(img=recursos.mini_egg_fail, x=730, y=580)
 mini_fail_2 = pyglet.sprite.Sprite(img=recursos.mini_egg_fail, x=755, y=580)
 mini_fail_3 = pyglet.sprite.Sprite(img=recursos.mini_egg_fail, x=780, y=580)
 
-huevo = pyglet.sprite.Sprite(img=recursos.egg, x=525, y=300)
+huevo = pyglet.sprite.Sprite(img=recursos.egg, x=cols[1], y=300)
 ch_izq = pyglet.sprite.Sprite(img=recursos.chansey_left, x=300, y=184)
 ch_der = pyglet.sprite.Sprite(img=recursos.chansey_right, x=500, y=184)
 ch_cen = pyglet.sprite.Sprite(img=recursos.chansey_center, x=400, y=177)
